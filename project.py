@@ -1,9 +1,17 @@
 """
-DSC 20 Project Winter 2026
-Name(s): Alyssa Gong, Ethan Kam
-PID(s):  A19235295, A18647306
-Sources: Lecture Slides, Lecture Notes, and Reading (W3Schools), \
-Wikipedia (KNN), and Intuitive Machine Learning Youtube Video
+Image Processing and K-Nearest Neighbors Classifier
+
+This project implements an object-oriented image processing system in Python,
+including transformations such as grayscale conversion, rotation, brightness
+adjustment, pixelation, and edge detection.
+
+It also includes a K-Nearest Neighbors (KNN) classifier for image classification
+using Euclidean distance.
+
+Technologies:
+- Python
+- NumPy
+- PIL (Python Imaging Library)
 """
 
 import numpy as np
